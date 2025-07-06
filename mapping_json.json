@@ -1,0 +1,12 @@
+{
+  "displayName": "customer.displayName",
+  "type": "",
+  "addressLine1": "customer.address1",
+  "addressLine2": "customer.address2",
+  "city": "customer.city",
+  "state": "customer.region",
+  "country": "customer.countryCode",
+  "postalCode": "customer.postalCode",
+  "phoneNumber": "customer.phone",
+  "email": "customer.email"
+}

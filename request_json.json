@@ -1,0 +1,15 @@
+{
+  "customer": {
+    "displayName": "Customer Name",
+    "firstName": "Customer",
+    "lastName": "Name",
+    "city": "Baltimore",
+    "region": "MD",
+    "postalCode": "21223",
+    "countryCode": "US",
+    "email": "customer.name@gmail.com",
+    "phone": "+19443159832",
+    "address1": "101, Haven street",
+    "address2": ""
+  }
+}
